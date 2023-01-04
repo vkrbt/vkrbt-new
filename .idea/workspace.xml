@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec92990-365f-42c0-9530-155516e33e78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/Note/Note.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Note/note.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NoteCard/NoteCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NoteCard/note-card.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NotesList/NotesList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NotesList/notes-list.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/clsJoin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/formatDate.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/notes/frightened-laughter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/notes/how-i-started-to-live.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/notes/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/notes/lost-and-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/notes/new-year-loneliness.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/notes/notes.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/notes/texts-to-exes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon-new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo-new-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo-new-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vkrbt-new-512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vkrbt-new.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vkrbt-new@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/thirteen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JpVB300DCnzNOY97vrUUYqi61j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/vkorbut/vkrbt-new/pages/notes",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/vkorbut/vkrbt-new/node_modules/prettier",
+    "ts.external.directory.path": "/Users/vkorbut/vkrbt-new/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/notes" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/pages/notes" />
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/NotesList" />
+      <recent name="$PROJECT_DIR$/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec92990-365f-42c0-9530-155516e33e78" name="Changes" comment="" />
+      <created>1672774878440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672774878440</updated>
+      <workItem from="1672774879929" duration="6812000" />
+      <workItem from="1672827907363" duration="5238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

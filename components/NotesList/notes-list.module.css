@@ -1,0 +1,17 @@
+.notesList ul {
+    margin: 0;
+    padding: 0;
+}
+
+.notesList li {
+    list-style: none;
+}
+
+.notesList {
+    max-width: 600px;
+    margin: auto;
+}
+
+.noteItem + .noteItem {
+    margin-top: 28px;
+}

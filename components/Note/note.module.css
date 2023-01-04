@@ -1,0 +1,37 @@
+.note {
+    max-width: 600px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 24px;
+    hyphens: auto;
+}
+
+.note :global(ul) {
+    margin: 0;
+    padding-left: 0;
+}
+
+.note :global(li) {
+    list-style-type: none;
+}
+.note :global(li)::before {
+    content: '•';
+    margin: 0 12px 0 0;
+    color: #ccc;
+}
+
+.note :global(ul) {
+    padding-bottom: 16px;
+}
+
+.note :global(p) {
+    padding-bottom: 16px;
+}
+
+.note :global(hr) {
+    margin: 0 0 16px;
+}
+
+.title {
+    margin: 32px 0 16px;
+}

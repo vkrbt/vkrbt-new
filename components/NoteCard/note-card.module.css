@@ -1,0 +1,24 @@
+.card h2 {
+    margin: 0;
+}
+
+.date {
+    color: var(--color-secondary);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 12px;
+}
+
+.dateMobile {
+    display: none;
+}
+
+@media screen and (max-width: 576px) {
+    .dateMobile {
+        display: block;
+    }
+
+    .dateDt {
+        display: none;
+    }
+}
